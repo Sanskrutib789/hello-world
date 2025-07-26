@@ -26,4 +26,5 @@ Submit! On the next page, you'll see a summary of your changes. Just click the g
 That's it! You've just asked for your changes to be added to the main project. I'll merge them live during the session.
 
 The Awesome List of Learning Resources
-(Your contribution goes here!)
+(Your contribution goes here!) 
+I think this is a good Opportunity 
