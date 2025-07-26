@@ -6,7 +6,7 @@ The goal of this project is simple: to collaboratively create an awesome list of
 What's the Mission?
 Your mission, should you choose to accept it, is to add one of your favorite online learning resources (a blog, a YouTube channel, a tutorial site, etc.) to the list below.
 
-How to Contribute (Your First Pull Request!)
+How to Contribute (Sanskruti Bramhankar)
 Don't worry, you don't need to install anything! We'll do everything right here on the GitHub website.
 
 Fork this Repository: Click the Fork button in the top-right corner of this page. This creates your own personal copy of this project.
